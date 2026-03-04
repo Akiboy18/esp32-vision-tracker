@@ -331,10 +331,8 @@ Possible enhancements include:
 This project was collaboratively developed by:
 
 - **Akhilesh R**
-- **________________________**
-- **________________________**
-
-(Add collaborator names here)
+- **Prajna Ranganath**
+- **Navin Pragaash G**
 
 ---
 
