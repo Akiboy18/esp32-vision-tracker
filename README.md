@@ -1,5 +1,5 @@
 # esp32-vision-tracker-_Real-Time Vision-Based Object Tracking using ESP32_
-AI-powered wireless object tracking system with ESP32 servo control over TCP.
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![ESP32](https://img.shields.io/badge/Hardware-ESP32-red)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-MediaPipe-green)
