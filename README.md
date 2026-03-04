@@ -1,6 +1,6 @@
 # esp32-vision-tracker-_Real-Time Vision-Based Object Tracking using ESP32_
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![ESP32](https://img.shields.io/badge/Hardware-ESP32-red)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-MediaPipe-green)
 ![AI](https://img.shields.io/badge/AI-Hand%20Landmark%20Detection-orange)
