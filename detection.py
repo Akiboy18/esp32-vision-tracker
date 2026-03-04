@@ -6,7 +6,7 @@ import time
 # ---------------------------------------------------------
 # 1. ESP32 TCP SETTINGS
 # ---------------------------------------------------------
-ESP32_IP = "10.15.185.176"   # 🔧 Replace with your ESP32 IP
+ESP32_IP = "10.15.185.176" 
 ESP32_PORT = 8080
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -106,3 +106,4 @@ cap.release()
 cv2.destroyAllWindows()
 if sock:
     sock.close()
+
